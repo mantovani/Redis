@@ -1,0 +1,17 @@
+--- #YAML:1.0
+name:                Redis
+version:             0.0801
+abstract:            perl binding for Redis database
+license:             ~
+author:              
+    - Dobrica Pavlinusic <dpavlin@rot13.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Carp:                          0
+    Data::Dumper:                  0
+    IO::Socket::INET:              0
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
